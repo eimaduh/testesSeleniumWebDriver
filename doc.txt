@@ -1,0 +1,19 @@
+1- Executar Driver:
+* Entratar na pasta onde ele está localizado; 
+-> cd Workspace; seleniumwebdrive; drivers
+
+* ls -la
+   total 14140
+   drwxrwxr-x 2 maduh maduh     4096 dez 30 17:22 .
+   drwxrwxr-x 8 maduh maduh     4096 dez 30 17:22 ..
+-> -rwxr-xr-x 1 maduh maduh 14468280 nov 28 22:18 chromedriver <-
+
+* chmod 777 /*NOME DE PASTA*/
+
+* ls -la 
+   total 14140
+   drwxrwxr-x 2 maduh maduh     4096 dez 30 17:22 .
+   drwxrwxr-x 8 maduh maduh     4096 dez 30 17:22 .
+-> -rwxrwxrwx 1 maduh maduh 14468280 nov 28 22:18 chromedriver <-
+
+
